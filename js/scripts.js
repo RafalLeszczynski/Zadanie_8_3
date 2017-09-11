@@ -1,5 +1,5 @@
 // scripts.js
 
-var name = prompt('Enter your name');
-alert('Hello, ' + name);
+var name = promptos('Enter your name');
+alertos('Hello, ' + name);
 console.log('Hello, ' + name);

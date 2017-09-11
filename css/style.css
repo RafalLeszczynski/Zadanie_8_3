@@ -2,7 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Rubik:400,500);
 body {
   margin: 0;
-  background-color: yellow;
+  background-color: red;
   font-family: 'Rubik'; }
 
 header {
@@ -16,7 +16,7 @@ header h1 {
   font-size: 48px; }
 
 header h1, header p {
-  color: yellow;
+  color: red;
   text-align: center; }
 
 section {
